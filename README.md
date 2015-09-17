@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Comment Banner
 ==============
 
@@ -38,3 +39,7 @@ Known Issues
 - the comment boxes aren't formatted correctly for HTML-files. This problem
   occurs because of the length of the comment tag. You can easily fix it
   manually. I'm assuming this plugin isn't very useful in HTML. 
+=======
+# commentBanner
+Add a fancy *-box to each selection in Sublime Text
+>>>>>>> 299758d6908d0e61ec04a10db5e1e502f250ed1f
